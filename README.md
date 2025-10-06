@@ -3,4 +3,5 @@ Generating synthetic data using python for analysis.
 <ol>
     <li><b>healthcare.py:</b> Data of 200 patients in a clinical trial containing variables like age, blood_pressure, cholesterol, treatment_group, recovery_time, survival_time & event_observed. Useful for hypothesis testing, correlation & regression analysis, survival analysis.
     <li><b>cardio.py:</b> Generate a cardiovascular dataset having demographic, clinical & lifestyle attributes. Also calculate the risk score and heart disease probability for each patient. This data can be used for EDA.
+    <li>
 </ol>

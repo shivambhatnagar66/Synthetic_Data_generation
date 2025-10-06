@@ -29,3 +29,4 @@ df = pd.DataFrame({
 })
 #save the dataset in your system
 df.to_csv('healthcare.csv', index = False)
+print("healthcare.csv file generated.")

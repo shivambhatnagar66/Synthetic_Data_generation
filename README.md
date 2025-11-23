@@ -7,4 +7,5 @@ Generating synthetic data using python for analysis.
     <li><b>signal_synthetic.py:</b> Generate a signal dataset consisting of 5Hz and 20 Hz frequencies. Useful for learning Fourier transformation.
     <li><b>earthquake.py:</b> Simulating vibration data from a 10-story building during an earthquake to dentify the building's natural frequencies that could cause damage.
     <li><b>EEG.py:</b> Simulating EEG data from a patient to identify different brain wave patterns and dominant brain wave frequencies for neurological assessment.
+    <li><b>Email.py:</b> Contains a mixture of Spam and Non-Spam Emails. Can be used for training MLPClassifier to detect spam and non-spam emails.
 </ol>

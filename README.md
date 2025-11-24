@@ -3,17 +3,16 @@
 This repository provides a safe environment to practice workflows such as EDA, statistical modelling, Fourier analysis, and basic machine learning without relying on sensitive real-world data.</p>
 
 <h2>📂 Repository Structure</h2>
-```
 Synthetic_Data_Generation/
-│
-├── healthcare.py
-├── cardio.py
-├── health_time_series.py
-├── signal_synthetic.py
-├── earthquake.py
-├── EEG.py
-└── Email.py
-```
+|
+|-- healthcare.py
+|-- cardio.py
+|-- health_time_series.py
+|-- signal_synthetic.py
+|-- earthquake.py
+|-- EEG.py
+`-- Email.py
+
 
 <h2>📘 Module Descriptions</h2>
 <h3>1. healthcare.py</h3>

@@ -85,5 +85,13 @@ Ideal for building and testing:
 <li>The focus is on understanding analytical workflows and modelling concepts across diverse data types.
 </ol>
 
+<h2>🚀 Getting Started</h2>
+<h4>Clone the repository</h4>
+git clone https://github.com/shivambhatnagar66/Synthetic_Data_generation.git
+<h4>Install required libraries</h4>
+pip install numpy pandas matplotlib scipy scikit-learn
+<h4>Run any module</h4>
+python healthcare.py
+
 <h4>🤝 Contributions</h4>
 Suggestions and contributions are welcome. Feel free to open an issue or submit a pull request.
